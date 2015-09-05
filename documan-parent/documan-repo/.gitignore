@@ -1,2 +1,6 @@
 /target/
 /bin/
+/.settings/*
+/alf_data_dev/*
+/.classpath
+/.project
