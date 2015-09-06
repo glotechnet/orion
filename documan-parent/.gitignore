@@ -1,4 +1,8 @@
 /.settings/
 /.project
+<<<<<<< HEAD
 /documan-repo/alf_data_dev/*
 /.classpath
+=======
+/documan-repo/alf_data_dev/*
+>>>>>>> branch 'master' of https://github.com/glotechnet/orion.git
